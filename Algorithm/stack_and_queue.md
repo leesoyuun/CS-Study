@@ -71,7 +71,7 @@ console.log(stack.pop()); // Hello
 
 ```
 
-** JavaScript에서 스택은 해당 코드를 사용해도 좋지만 배열의 push와 Pop 메서드를 사용하여 활용이 가능합니다. **
+**JavaScript에서 스택은 해당 코드를 사용해도 좋지만 배열의 push와 Pop 메서드를 사용하여 활용이 가능합니다.**
 
 
 
